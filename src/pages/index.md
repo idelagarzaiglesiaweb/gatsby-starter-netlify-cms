@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Evangelistas iglesiaweb.net
 image: /img/black-and-white-community-crowd-9816.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Cyber-evangelismo
+subheading: El evangelio mundial empieza contigo
 mainpitch:
-  title: Why Kaldi
+  title: Iglesiaweb.net
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
